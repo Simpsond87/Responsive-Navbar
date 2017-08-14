@@ -5,3 +5,24 @@
   flex-direction:column;
   min-height:100vh;
 }
+
+.navbar {
+  background: rgba(17, 25, 128, 1);
+  color: #ffffff;
+  width: 100%;
+}
+
+h1 {
+font-variant: small-caps;
+font-family: verdana;
+vertical-align: middle;
+margin-left: 30px;
+}
+
+h2 {
+  font-variant: small-caps;
+  font-family: verdana;
+  vertical-align: middle;
+  float: right;
+  margin-right: 30px;
+}
